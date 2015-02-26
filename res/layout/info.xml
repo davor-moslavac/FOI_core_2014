@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/slanjeCijena"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textViewNaslov"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top|center_horizontal"
+        android:text="@string/poiNaslov"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/textUdaljenost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top|center_horizontal"
+        android:text="@string/udaljenost"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewDescShort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="@string/desc_short" />
+    <TextView
+        android:id="@+id/textViewDescExpand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="@string/desc_expand" />
+
+   <Button
+       android:id="@+id/prikaziSlike"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/prikaziFotografije" />
+
+   <Button
+       android:id="@+id/odustani"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/odustani" />
+    
+    
+</LinearLayout>

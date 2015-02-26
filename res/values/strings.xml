@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Urban Explorer - Varaždin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="igrajIgru">prvi gumb</string>
+    <string name="icon">icon</string>
+    <string name="popup_button">Više...</string>
+    <string name="poiNaslov">Naslov POI-a</string>
+    <string name="odustani">Izlaz</string>
+    <string name="desc_short">Short description</string>
+    <string name="desc_expand">Expanded description</string>
+    <string name="prikaziFotografije">Prikaži fotografije</string>
+    <string name="udaljenost">Udaljenost</string>
+    <string name="destinacije">Destinacije</string>
+    <string name="igraButton">Igraj!</string>
+    <string name="skenirajQR">QR code</string>
+    <string name="showInfoTitle">Informacije</string>
+    <string name="showPictureGalleryTitle">Galerija slika</string>
+    <string name="picture">Slika</string>
+	<string name="show_intro">Pritisnite na sličicu kako bi ju povečali</string>
+
+</resources>
